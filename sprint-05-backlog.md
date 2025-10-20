@@ -10,11 +10,11 @@ Scrum Master: Ilias Yeck
 
 Product Owner: Diego Velasco
 
-Sprint 4 Planning Date/Time: Oct 20th, 2025 - Nov 2nd, 2025
+Sprint 5 Planning Date/Time: Oct 20th, 2025 - Nov 2nd, 2025
 
-Sprint 4 Planning Participants: Diego Velasco, Jayson Matula, Sai Vihas Yadav, Ilias Yeck
+Sprint 5 Planning Participants: Diego Velasco, Jayson Matula, Sai Vihas Yadav, Ilias Yeck
 
-Sprint 4 Backlog:
+Sprint 5 Backlog:
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
