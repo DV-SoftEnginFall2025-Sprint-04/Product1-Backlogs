@@ -26,3 +26,9 @@ permalink: /product-backlog/
 | LC-018 | As a developer, I want to deploy the frontend to Azure Static Web Apps so that users can access the app online. | 8 | 3 | N | Planned |  |
 | LC-019 | As a developer, I want to connect the frontend to the backend API endpoints using fetch requests. | 9 | 3 | N | Planned |  |
 | LC-020 | As a user, I want to see a success message when my calendar is successfully imported or updated. | 7 | 2 | N | Planned |  |
+| LC-021 | As a user, I want the product's "credits" page to have the contact information of the developers if I need to contact them. | 3 | 2 | N | Assigned | Diego |
+| LC-022 | As a user, I want the product's "credits" page to have the contact information of the developers if I need to contact them. | 3 | 2 | N | Assigned | Ilias |
+| LC-023 | As a user, I want the product's "credits" page to have the contact information of the developers if I need to contact them. | 3 | 2 | N | Assigned | Jayson |
+| LC-024 | As a developer, I want to ensure that I am able to implement development to the product. | 6 | 2 | N | Assigned | Diego |
+| LC-025 | As a developer, I want to ensure that I am able to implement development to the product. | 6 | 2 | N | Assigned | Ilias |
+| LC-026 | As a developer, I want to ensure that I am able to implement development to the product. | 6 | 2 | N | Assigned | Jayson |
