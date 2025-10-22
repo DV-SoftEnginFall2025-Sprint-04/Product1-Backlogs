@@ -11,7 +11,6 @@ permalink: /product-backlog/
 | LC-001 | As a developer, I want to create a GitHub organization and repos for clients and servers so that I can collaborate using centralized version control. | 10 | 2 | Y | Assigned  | Diego |
 | LC-002 | As a developer, I want to research ical format to figure out how to import ics files into a calendar. | 2 | 2 | Y | Assigned | Ilias |
 | LC-003 | As a developer, I want to install and configure Node.js and Express for the backend server. | 9 | 3 | N | Planned |  |
-| LC-004 | As a developer, I want to research the iCal (.ics) format to understand how to parse and import events. | 8 | 2 | Y | Assigned |  |
 | LC-005 | As a developer, I want to design a basic homepage with project title and purpose to confirm frontend setup. | 5 | 1 | N | Planned |  |
 | LC-006 | As a developer, I want to connect the backend to a MySQL database so that imported events can be stored. | 9 | 5 | N | Planned |  |
 | LC-007 | As a developer, I want to create a REST API route to import an .ics calendar link so that we can process user schedules. | 10 | 5 | N | Planned |  |
