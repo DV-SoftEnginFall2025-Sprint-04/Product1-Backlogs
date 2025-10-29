@@ -12,7 +12,7 @@ Product Owner: Diego Velasco
 
 Sprint 5 Planning Date/Time: Oct 20th, 2025 - Nov 2nd, 2025
 
-Sprint 5 Planning Participants: Diego Velasco, Jayson Matula, Ilias Yeck
+Sprint 5 Planning Participants: Diego Velasco, Jayson Matula, Ilias Yeck, Sai Vihas Yadav
 
 Sprint 5 Backlog:
 
