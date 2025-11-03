@@ -28,4 +28,4 @@ Sprint 6 Backlog:
 | LC-013 | As a user, I want my calendar to update automatically when the original calendar changes so I don’t have to reimport manually. | 10 | 8 | N | Planned |  |
 | LC-014 | As a developer, I want to store the user’s linked calendar URL in the database so we can refresh it automatically. | 8 | 3 | N | Planned |  |
 | LC-015 | As a user, I want to remove or change my linked calendar so that I can manage which calendar is synced. | 6 | 3 | N | Planned |  |
-| LC-016 | As a developer, I want to add frontend form validation to ensure that only valid calendar URLs can be submitted. | 6 | 2 | N | Planned |  |
+| LC-016 | As a developer, I want to add frontend form validation to ensure that only valid calendar URLs can be submitted. | 6 | 2 | N | Assigned | Sai |
