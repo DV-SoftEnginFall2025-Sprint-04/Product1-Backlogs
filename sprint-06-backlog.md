@@ -19,3 +19,4 @@ Sprint 6 Backlog:
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
 | LC-019 | As a developer, I want to connect the frontend to the backend API endpoints using fetch requests. | 9 | 3 | N | Assigned | Sai |
+| LC-020 | As a user, I want to see a success message when my calendar is successfully imported or updated. | 7 | 2 | N | Assigned | Jayson |
