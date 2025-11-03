@@ -30,8 +30,8 @@ Sprint 5 Backlog:
 | LC-024 | As a developer, I want to ensure that I am able to implement development to the product. | 6 | 2 | N | Done | Diego |
 | LC-025 | As a developer, I want to ensure that I am able to implement development to the product. | 6 | 2 | N | Done | Ilias |
 | LC-026 | As a developer, I want to ensure that I am able to implement development to the product. | 6 | 2 | N | Assigned | Jayson |
-| LC-031 | As a developer, I want to create a `.gitignore` file so unnecessary files are not pushed to GitHub. | 5 | 1 | N   | Assigned | Sai Vihas |
-| LC-032| As a  developer, I want to add a project logo to the homepage so the app looks more professional. | 4 | 1 | N | Assigned | Sai Vihas |
+| LC-031 | As a developer, I want to create a `.gitignore` file so unnecessary files are not pushed to GitHub. | 5 | 1 | N   | Done | Sai Vihas |
+| LC-032| As a  developer, I want to add a project logo to the homepage so the app looks more professional. | 4 | 1 | N | Done | Sai Vihas |
 | LC-033| As a  developer, I want to add a loading spinner to show while calendar data is being fetched. | 6 | 2 | N | Assigned | Sai Vihas |
 | LC-034| As a developer, I want to add basic error handling to API responses so users see helpful messages if something fails. | 7 | 2 | N | Assigned | Sai Vihas|
 | LC-035 | As a developer, I want to test the API using Postman or Thunder Client to confirm endpoints work correctly. | 6 | 2 | N | Assigned | Sai Vihas |
