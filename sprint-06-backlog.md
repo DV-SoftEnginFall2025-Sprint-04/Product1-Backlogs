@@ -29,7 +29,7 @@ Sprint 6 Backlog:
 | LC-014 | As a developer, I want to store the user’s linked calendar URL in the database so we can refresh it automatically. | 8 | 3 | N | Planned |  |
 | LC-015 | As a user, I want to remove or change my linked calendar so that I can manage which calendar is synced. | 6 | 3 | N | Assigned | Sai |
 | LC-016 | As a developer, I want to add frontend form validation to ensure that only valid calendar URLs can be submitted. | 6 | 2 | N | Assigned | Sai |
-| LC-021 | As a user, I want to coordinate the Product Backlog across product teams (Product Owner) | 6 | 2 | N | Assigned |  |
+| LC-021 | As a user, I want to coordinate the Product Backlog across product teams (Product Owner) | 6 | 2 | N | Assigned | Ilias |
 | LC-022 | As a user, I want to schedule support for the Capstone team’s Celebration of Scholarship upcoming events | 6 | 2 | N | Assigned |  |
 | LC-023 | As a user, I want to schedule support for the Capstone team’s Celebration of Scholarship Lite upcoming events | 6 | 2 | N | Assigned |  |
 | LC-024 | As a user, I want to create a list of product assets that need to be transitioned from the Capstone team in sprint 7 | 6 | 2 | N | Assigned |  |
