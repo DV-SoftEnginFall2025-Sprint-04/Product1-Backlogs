@@ -26,7 +26,7 @@ Sprint 6 Backlog:
 | LC-010 | As a user, I want to see my imported events displayed in a simple list view after linking my calendar. | 9 | 3 | N | Planned |  |
 | LC-012 | As a developer, I want to set up a refresh endpoint so that calendar updates can be automatically checked. | 9 | 5 | N | Planned | Ilias |
 | LC-013 | As a user, I want my calendar to update automatically when the original calendar changes so I don’t have to reimport manually. | 10 | 8 | N | Planned |  |
-| LC-014 | As a developer, I want to store the user’s linked calendar URL in the database so we can refresh it automatically. | 8 | 3 | N | Planned |  |
+| LC-014 | As a developer, I want to store the user’s linked calendar URL in the database so we can refresh it automatically. | 8 | 3 | N | Assigned | Jayson |
 | LC-015 | As a user, I want to remove or change my linked calendar so that I can manage which calendar is synced. | 6 | 3 | N | Assigned | Sai |
 | LC-016 | As a developer, I want to add frontend form validation to ensure that only valid calendar URLs can be submitted. | 6 | 2 | N | Assigned | Sai |
 | LC-021 | As a user, I want to coordinate the Product Backlog across product teams (Product Owner) | 6 | 2 | N | Assigned | Diego |
