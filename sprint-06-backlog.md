@@ -32,4 +32,4 @@ Sprint 6 Backlog:
 | LC-021 | As a user, I want to coordinate the Product Backlog across product teams (Product Owner) | 6 | 2 | N | Assigned | Diego |
 | LC-022 | As a user, I want to schedule support for the Capstone team’s Celebration of Scholarship upcoming events | 6 | 3 | N | Assigned |  |
 | LC-023 | As a user, I want to schedule support for the Capstone team’s Celebration of Scholarship Lite upcoming events | 6 | 3 | N | Assigned |  |
-| LC-024 | As a user, I want to create a list of product assets that need to be transitioned from the Capstone team in sprint 7 | 6 | 3 | N | Assigned |  |
+| LC-024 | As a user, I want to create a list of product assets that need to be transitioned from the Capstone team in sprint 7 | 6 | 3 | N | Assigned | Diego |
