@@ -18,3 +18,4 @@ Sprint 7 Backlog:
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
+| LC-020 | As a user, I want to see a success message when my calendar is successfully imported or updated. | 7 | 2 | N | Assigned  |Sai Vihas  |
