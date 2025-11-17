@@ -19,7 +19,7 @@ Sprint 6 Backlog:
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
 | LC-019 | As a developer, I want to connect the frontend to the backend API endpoints using fetch requests. | 9 | 3 | N | Done | Sai |
-| LC-020 | As a user, I want to see a success message when my calendar is successfully imported or updated. | 7 | 2 | N | Assigned | Jayson |
+| LC-020 | As a user, I want to see a success message when my calendar is successfully imported or updated. | 7 | 2 | N | Done | Jayson |
 | LC-008 | As a user, I want to paste my calendar link into the app so that my events can be imported. | 10 | 3 | N | Done | Jayson |
 | LC-009 | As a developer, I want to write logic that converts .ics data into a usable JSON format for display. | 8 | 5 | Y | Done | Ilias |
 | LC-012 | As a developer, I want to set up a refresh endpoint so that calendar updates can be automatically checked. | 9 | 5 | N | Done | Ilias |
