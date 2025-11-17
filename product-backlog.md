@@ -13,3 +13,5 @@ permalink: /product-backlog/
 | LC-022 | As a user, I want to schedule support for the Capstone team’s Celebration of Scholarship upcoming events | 6 | 3 | N | Planned |  |
 | LC-023 | As a user, I want to schedule support for the Capstone team’s Celebration of Scholarship Lite upcoming events | 6 | 3 | N | Planned |  |
 | LC-024 | As a user, I want to create a list of product assets that need to be transitioned from the Capstone team in sprint 7 | 6 | 3 | N | Planned |  |
+| LC-025 |As a developer, I want to prepare for my in class presentation| 9 | 5 | N | Planned |  |
+
