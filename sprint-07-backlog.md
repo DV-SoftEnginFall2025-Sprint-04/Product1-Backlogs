@@ -10,7 +10,7 @@ Scrum Master: Ilias Yeck
 
 Product Owner: Diego Velasco
 
-Sprint 7 Planning Date/Time: Nov 2nd, 2025 - Nov 16th, 2025
+Sprint 7 Planning Date/Time: Nov 17th, 2025 - Dec 7th, 2025
 
 Sprint 7 Planning Participants: Diego Velasco, Jayson Matula, Ilias Yeck, Sai Vihas Yadav
 
