@@ -28,7 +28,7 @@ Sprint 7 Backlog:
 | LC-028 | As a user, I want to see my events color-coded so I can easily distinguish between event categories. | 7 | 3 | N | Assigned | Jayson |
 | LC-031 | As a developer, I want to implement error handling so users get a message if their calendar link fails. | 8 | 3 | N | Assigned | Ilias |
 | LC-032 | As a user, I want to upload an .ics file manually in case I do not have a calendar link. | 6 | 5 | Y | Assigned | Jayson |
-| LC-033 | As a developer, I want to create a function that cleans and normalizes whitespace in ICS files for reliability. | 6 | 2 | Y | Planned |  |
+| LC-033 | As a developer, I want to create a function that cleans and normalizes whitespace in ICS files for reliability. | 6 | 2 | Y | Planned | Diego |
 | LC-034 | As a user, I want to delete an imported calendar so I can remove old or incorrect schedules. | 7 | 3 | N | Planned |  |
 | LC-035 | As a user, I want to toggle visibility of calendars so I can hide or show different schedules. | 7 | 4 | N | Planned |  |
 | LC-036 | As a user, I want a loading indicator while my calendar imports so I know the system is working. | 6 | 1 | N | Assigned | Jayson |
