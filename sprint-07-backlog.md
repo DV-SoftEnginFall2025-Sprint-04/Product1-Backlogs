@@ -20,5 +20,5 @@ Sprint 7 Backlog:
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
 | LC-020 | As a user, I want to see a success message when my calendar is successfully imported or updated. | 7 | 2 | N | Assigned  |Sai Vihas  |
 | LC-041 | As a user, I want to transition all product assets. | 7 | 6 | N | Assigned  |  |
-| LC-041 | As a user, I want to prepare for the Class Product Presentation. | 7 | 6 | N | Assigned  |  |
+| LC-042 | As a user, I want to prepare for the Class Product Presentation. | 7 | 6 | N | Assigned  |  |
 
