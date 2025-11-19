@@ -19,10 +19,10 @@ Sprint 7 Backlog:
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
 | LC-020 | As a user, I want to see a success message when my calendar is successfully imported or updated. | 7 | 2 | N | Assigned  | Sai Vihas  |
-| LC-041 | As a user, I want to transition all product assets. | 7 | 4 | N | Assigned  | Diego |
-| LC-042 | As a user, I want to transition all product assets. | 7 | 4 | N | Assigned  | Ilias |
-| LC-043 | As a user, I want to transition all product assets. | 7 | 4 | N | Assigned  | Jayson |
-| LC-044 | As a user, I want to transition all product assets. | 7 | 4 | N | Assigned  | Sai Vihas |
+| LC-041 | As a user, I want to transition all product assets. | 7 | 4 | Y | Assigned  | Diego |
+| LC-042 | As a user, I want to transition all product assets. | 7 | 4 | Y | Assigned  | Ilias |
+| LC-043 | As a user, I want to transition all product assets. | 7 | 4 | Y | Assigned  | Jayson |
+| LC-044 | As a user, I want to transition all product assets. | 7 | 4 | Y | Assigned  | Sai Vihas |
 | LC-045 | As a user, I want to prepare for the Class Product Presentation. | 7 | 4 | N | Assigned  | Diego |
 | LC-046 | As a user, I want to prepare for the Class Product Presentation. | 7 | 4 | N | Assigned  | Ilias |
 | LC-047 | As a user, I want to prepare for the Class Product Presentation. | 7 | 4 | N | Assigned  | Jayson |
