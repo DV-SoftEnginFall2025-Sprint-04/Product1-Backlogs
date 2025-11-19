@@ -22,7 +22,7 @@ Sprint 7 Backlog:
 | LC-021 | As a user, I want to coordinate the Product Backlog across product teams (Product Owner) | 6 | 5 | N | Assigned | Diego |
 | LC-022 | As a user, I want to schedule support for the Capstone team’s Celebration of Scholarship upcoming events | 6 | 3 | N | Assigned | Ilias |
 | LC-023 | As a user, I want to schedule support for the Capstone team’s Celebration of Scholarship Lite upcoming events | 6 | 3 | N | Assigned | Diego |
-| LC-024 | As a user, I want to create a list of product assets that need to be transitioned from the Capstone team in sprint 7 | 6 | 4 | N | Assigned | Diego |
+| LC-024 | As a user, I want to create a list of product assets that need to be transitioned from the Capstone team in sprint 7 | 6 | 3 | N | Assigned | Diego |
 | LC-026 | As a user, I want the calendar UI to display imported events so I can view my schedule visually. | 10 | 5 | N | Planned | Jayson |
 | LC-027 | As a developer, I want to create a clean JSON event structure so events can be rendered consistently. | 9 | 3 | N | Assigned | Ilias |
 | LC-028 | As a user, I want to see my events color-coded so I can easily distinguish between event categories. | 7 | 3 | N | Assigned | Jayson |
