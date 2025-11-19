@@ -27,3 +27,4 @@ Sprint 7 Backlog:
 | LC-046 | As a user, I want to prepare for the Class Product Presentation. | 9 | 5 | N | Assigned  | Ilias |
 | LC-047 | As a user, I want to prepare for the Class Product Presentation. | 9 | 5 | N | Assigned  | Jayson |
 | LC-048 | As a user, I want to prepare for the Class Product Presentation. | 9 | 5 | N | Assigned  | Sai Vihas |
+| LC-021 | As a user, I want to coordinate the Product Backlog across product teams (Product Owner) | 6 | 2 | N | Planned |  |
