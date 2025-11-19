@@ -41,5 +41,5 @@ Sprint 7 Backlog:
 | LC-045 | As a user, I want to prepare for the Class Product Presentation. | 9 | 4 | N | Assigned  | Sai Vihas |
 | LC-046 | As a user, I want to transition all product assets. | 9 | 4 | Y | Assigned  | Diego |
 | LC-047 | As a user, I want to transition all product assets. | 9 | 4 | Y | Assigned  | Ilias |
-| LC-049 | As a user, I want to transition all product assets. | 9 | 4 | Y | Assigned  | Jayson |
+| LC-048 | As a user, I want to transition all product assets. | 9 | 4 | Y | Assigned  | Jayson |
 | LC-049 | As a user, I want to transition all product assets. | 9 | 4 | Y | Assigned  | Sai Vihas |
