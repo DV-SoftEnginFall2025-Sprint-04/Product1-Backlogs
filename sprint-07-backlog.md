@@ -32,11 +32,11 @@ Sprint 7 Backlog:
 | LC-034 | As a user, I want to delete an imported calendar so I can remove old or incorrect schedules. | 7 | 3 | N | Planned |  |
 | LC-035 | As a user, I want to toggle visibility of calendars so I can hide or show different schedules. | 7 | 4 | N | Planned |  |
 | LC-036 | As a user, I want a loading indicator while my calendar imports so I know the system is working. | 6 | 1 | N | Assigned | Jayson |
-| LC-038 | As a user, I want a help page that explains how to import calendars so I can complete the process without confusion. | 5 | 2 | N | Planned |  |
+| LC-038 | As a user, I want a help page that explains how to import calendars so I can complete the process without confusion. | 5 | 2 | N | Planned | Jayson |
 | LC-039 | As a developer, I want to create integration tests for the refresh API so I know updates are detected correctly. | 7 | 3 | N | Planned |  |
 | LC-040 | As a developer, I want to deploy the backend to Azure so the application can be accessed online. | 10 | 8 | N | Planned |  |
-| LC-041 | As a user, I want to transition all product assets. | 9 | 5 | Y | Assigned  | Diego |
-| LC-042 | As a user, I want to prepare for the Class Product Presentation. | 9 | 5 | N | Assigned  | Diego |
-| LC-043 | As a user, I want to prepare for the Class Product Presentation. | 9 | 5 | N | Assigned  | Ilias |
-| LC-044 | As a user, I want to prepare for the Class Product Presentation. | 9 | 5 | N | Assigned  | Jayson |
-| LC-045 | As a user, I want to prepare for the Class Product Presentation. | 9 | 5 | N | Assigned  | Sai Vihas |
+| LC-041 | As a user, I want to transition all product assets. | 9 | 4 | Y | Assigned  | Diego |
+| LC-042 | As a user, I want to prepare for the Class Product Presentation. | 9 | 4 | N | Assigned  | Diego |
+| LC-043 | As a user, I want to prepare for the Class Product Presentation. | 9 | 4 | N | Assigned  | Ilias |
+| LC-044 | As a user, I want to prepare for the Class Product Presentation. | 9 | 4 | N | Assigned  | Jayson |
+| LC-045 | As a user, I want to prepare for the Class Product Presentation. | 9 | 4 | N | Assigned  | Sai Vihas |
