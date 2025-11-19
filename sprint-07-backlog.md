@@ -35,7 +35,7 @@ Sprint 7 Backlog:
 | LC-038 | As a user, I want a help page that explains how to import calendars so I can complete the process without confusion. | 5 | 2 | N | Planned |  |
 | LC-039 | As a developer, I want to create integration tests for the refresh API so I know updates are detected correctly. | 7 | 3 | N | Planned |  |
 | LC-040 | As a developer, I want to deploy the backend to Azure so the application can be accessed online. | 10 | 8 | N | Planned |  |
-| LC-041 | As a user, I want to transition all product assets. | 9 | 5 | Y | Assigned  |  |
+| LC-041 | As a user, I want to transition all product assets. | 9 | 5 | Y | Assigned  | Diego |
 | LC-042 | As a user, I want to prepare for the Class Product Presentation. | 9 | 5 | N | Assigned  | Diego |
 | LC-043 | As a user, I want to prepare for the Class Product Presentation. | 9 | 5 | N | Assigned  | Ilias |
 | LC-044 | As a user, I want to prepare for the Class Product Presentation. | 9 | 5 | N | Assigned  | Jayson |
