@@ -23,9 +23,9 @@ Sprint 7 Backlog:
 | LC-022 | As a user, I want to schedule support for the Capstone team’s Celebration of Scholarship upcoming events | 6 | 3 | N | Assigned | Ilias |
 | LC-023 | As a user, I want to schedule support for the Capstone team’s Celebration of Scholarship Lite upcoming events | 6 | 3 | N | Assigned | Diego |
 | LC-024 | As a user, I want to create a list of product assets that need to be transitioned from the Capstone team in sprint 7 | 6 | 3 | N | Assigned | Diego |
-| LC-026 | As a user, I want the calendar UI to display imported events so I can view my schedule visually. | 10 | 5 | N | Planned |  |
+| LC-026 | As a user, I want the calendar UI to display imported events so I can view my schedule visually. | 10 | 5 | N | Planned | Jayson |
 | LC-027 | As a developer, I want to create a clean JSON event structure so events can be rendered consistently. | 9 | 3 | N | Planned |  |
-| LC-028 | As a user, I want to see my events color-coded so I can easily distinguish between event categories. | 7 | 3 | N | Planned |  |
+| LC-028 | As a user, I want to see my events color-coded so I can easily distinguish between event categories. | 7 | 3 | N | Planned | Jayson |
 | LC-031 | As a developer, I want to implement error handling so users get a message if their calendar link fails. | 8 | 3 | N | Planned |  |
 | LC-032 | As a user, I want to upload an .ics file manually in case I do not have a calendar link. | 6 | 5 | Y | Planned |  |
 | LC-033 | As a developer, I want to create a function that cleans and normalizes whitespace in ICS files for reliability. | 6 | 2 | Y | Planned |  |
