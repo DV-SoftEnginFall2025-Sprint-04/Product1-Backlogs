@@ -23,7 +23,7 @@ Sprint 7 Backlog:
 | LC-022 | As a user, I want to schedule support for the Capstone team’s Celebration of Scholarship upcoming events | 6 | 3 | N | Done | Ilias |
 | LC-023 | As a user, I want to schedule support for the Capstone team’s Celebration of Scholarship Lite upcoming events | 6 | 3 | N | Assigned | Diego |
 | LC-024 | As a user, I want to create a list of product assets that need to be transitioned from the Capstone team in sprint 7 | 6 | 3 | N | Assigned | Diego |
-| LC-026 | As a user, I want the calendar UI to display imported events so I can view my schedule visually. | 10 | 5 | N | Assigned | Jayson |
+| LC-026 | As a user, I want the calendar UI to display imported events so I can view my schedule visually. | 10 | 5 | N | Done | Jayson |
 | LC-027 | As a developer, I want to create a clean JSON event structure so events can be rendered consistently. | 9 | 3 | N | Done | Ilias |
 | LC-028 | As a user, I want to see my events color-coded so I can easily distinguish between event categories. | 7 | 3 | N | Assigned | Jayson |
 | LC-031 | As a developer, I want to implement error handling so users get a message if their calendar link fails. | 8 | 3 | N | Done | Ilias |
@@ -35,7 +35,7 @@ Sprint 7 Backlog:
 | LC-038 | As a user, I want a help page that explains how to import calendars so I can complete the process without confusion. | 5 | 2 | N | Assigned | Jayson |
 | LC-039 | As a developer, I want to create integration tests for the refresh API so I know updates are detected correctly. | 7 | 3 | N | Done | Sai Vihas |
 | LC-040 | As a developer, I want to deploy the backend to Azure so the application can be accessed online. | 10 | 8 | N | Done | Ilias |
-| LC-042 | As a user, I want to prepare for the Class Product Presentation. | 9 | 4 | N | Assigned  | Diego |
+| LC-042 | As a user, I want to prepare for the Class Product Presentation. | 9 | 4 | N | Done  | Diego |
 | LC-043 | As a user, I want to prepare for the Class Product Presentation. | 9 | 4 | N | Done  | Ilias |
 | LC-044 | As a user, I want to prepare for the Class Product Presentation. | 9 | 4 | N | Done  | Jayson |
 | LC-045 | As a user, I want to prepare for the Class Product Presentation. | 9 | 4 | N | Done  | Sai Vihas |
