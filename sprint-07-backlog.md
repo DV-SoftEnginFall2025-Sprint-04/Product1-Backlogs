@@ -37,7 +37,7 @@ Sprint 7 Backlog:
 | LC-040 | As a developer, I want to deploy the backend to Azure so the application can be accessed online. | 10 | 8 | N | Done | Ilias |
 | LC-042 | As a user, I want to prepare for the Class Product Presentation. | 9 | 4 | N | Assigned  | Diego |
 | LC-043 | As a user, I want to prepare for the Class Product Presentation. | 9 | 4 | N | Done  | Ilias |
-| LC-044 | As a user, I want to prepare for the Class Product Presentation. | 9 | 4 | N | Assigned  | Jayson |
+| LC-044 | As a user, I want to prepare for the Class Product Presentation. | 9 | 4 | N | Done  | Jayson |
 | LC-045 | As a user, I want to prepare for the Class Product Presentation. | 9 | 4 | N | Done  | Sai Vihas |
 | LC-046 | As a user, I want to transition all product assets. | 9 | 4 | Y | Assigned  | Diego |
 | LC-047 | As a user, I want to transition all product assets. | 9 | 4 | Y | Assigned  | Ilias |
